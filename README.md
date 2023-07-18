@@ -65,5 +65,3 @@ python example_model_sunshine.py
 - Minimum: 16GB RAM and 4 core CPU
 - Recommended: 32GB RAM and 8 core CPU
 
-### Test Git Updates
-- Changing the local README.md file to practive git and github
